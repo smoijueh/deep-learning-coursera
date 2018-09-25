@@ -1,0 +1,1 @@
+This directory will contain my certificates from the Deep Learning Specialization on Coursera
