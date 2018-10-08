@@ -10,7 +10,7 @@ Certificates from the [***Deep Learning Specialization***](https://www.coursera.
 
 * The specialization consists of five courses:  
     + [x] [***Neural Networks and Deep Learning***](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome)  
-    + [ ] [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
+    + [x] [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
     + [ ] [***Structuring Machine Learning Projects***](https://www.coursera.org/learn/machine-learning-projects/home/welcome)
     + [ ] [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)
     + [ ] [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
@@ -18,10 +18,10 @@ Certificates from the [***Deep Learning Specialization***](https://www.coursera.
 A checkmark indicates completion.
 
 
-## Certificates
+## Certificates  | Verification Links: [***1***](https://www.coursera.org/account/accomplishments/verify/NWN3GZCRCJCT), [***2***](https://www.coursera.org/account/accomplishments/certificate/DNKACBM75WFK)
 
 ![neural networks and deep learning](https://user-images.githubusercontent.com/42754056/46041754-2ff7b800-c0d9-11e8-9c25-503031bfa90a.png)
-
+![improving deep neural networks-1](https://user-images.githubusercontent.com/42754056/46635508-5a566600-cb1a-11e8-8f94-fff9dc64b890.png)
 
 ## Curriculum
 
